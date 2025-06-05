@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Bhardwaj</h1>
 <h3 align="center">I am currently persuing MS in Computer Science from Northeastern University, Seattle, Washington, USA & have a B.Tech in Computer Science & Engineering degree from KIIT University, Bhubaneswar, India. I am acquainted with C, C++, AWS, Python and Machine Learning</h3>
 
-<p align="left"> <a href="https://twitter.com/felixhelix01" target="blank"><img src="https://img.shields.io/twitter/follow/felixhelix01?logo=twitter&style=for-the-badge" alt="felixhelix01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
