@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Bhardwaj</h1>
-<h3 align="center">I am currently persuing MS in Computer Science from Northeastern University, Seattle, Washington, USA & have a B.Tech in Computer Science & Engineering degree from KIIT University, Bhubaneswar, India. I am acquainted with C, C++, AWS, Python and Machine Learning</h3>
+<h3 align="center">I am currently persuing MS in Computer Science from Northeastern University, Seattle, Washington, USA & have a B.Tech in Computer Science & Engineering degree from KIIT University, Bhubaneswar, India. I am proficient in C, C++, AWS, Python and Machine Learning</h3>
 
 
 <h3 align="left">Connect with me:</h3>
