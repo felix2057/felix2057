@@ -5,8 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/felixhelix01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felixhelix01" height="30" width="40" /></a>
-<a href="https://instagram.com/mayankbhardwaj2057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayankbhardwaj2057" height="30" width="40" /></a>
+<a href="https://instagram.com/mayankbhardwajxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayankbhardwajxo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
