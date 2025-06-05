@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Bhardwaj</h1>
-<h3 align="center">I am currently studying B.Tech CSE from KIIT University and looking forward to learn further in software in engineering. I am acquainted with C, C++, Python, HTML, CSS & Java programming languages.</h3>
+<h3 align="center">I have a B.Tech in CSE degree from KIIT University, Bhubaneswar, India. Currently persuing MS in Computer Science from Northeastern University, Seattle, Washington, USA. I am acquainted with C, C++, AWS, Python and Machine Learning</h3>
 
 <p align="left"> <a href="https://twitter.com/felixhelix01" target="blank"><img src="https://img.shields.io/twitter/follow/felixhelix01?logo=twitter&style=for-the-badge" alt="felixhelix01" /></a> </p>
 
